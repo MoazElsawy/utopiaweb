@@ -1007,6 +1007,14 @@ footer {
 }
 
 
+@media only screen and (max-width: 768px) {
+  /* Styles for devices with a maximum width of 768px (e.g., tablets) */
+  /* Adjust the layout or styling as needed */
+}
 
+@media only screen and (max-width: 480px) {
+  /* Styles for devices with a maximum width of 480px (e.g., phones) */
+  /* Adjust the layout or styling as needed */
+}
 
 
